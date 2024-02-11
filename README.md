@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://65c611cab8206200975c3998--unique-wisp-4de02a.netlify.app/](https://65c611cab8206200975c3998--unique-wisp-4de02a.netlify.app/)
 
-- 💬 Ask me about **Html,Css,Rest Api and MERN (Reactjs,Nodejs,Expressjs,Mongodb)**
+- 💬 Ask me about **Html,CssMERN (Reactjs,Nodejs,Expressjs,Mongodb),Rest Api**
 
 - 📫 How to reach me **prathap6047@gmail.com**
 
